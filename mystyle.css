@@ -5,3 +5,9 @@ background-color: #837166;
 h1 {
 color: #FFFFFF;
 }
+
+#textbox {
+background-color: #FFFFFF;
+  padding: 10px;
+  border: 1px #000000;
+}
